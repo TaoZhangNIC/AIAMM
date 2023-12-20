@@ -9,11 +9,11 @@ https://doi.org/10.1063/5.0167914
 
 ## Repository Overview
    # main program
-   *test_Auto_Chaotic.m
-   *test_Parametric_oscillator.m
+   * test_Auto_Chaotic.m
+   * test_Parametric_oscillator.m
    # comparison methods
-   *EnsembleSINDy
-   *WSINDy-master
+   * EnsembleSINDy
+   * WSINDy-master
 
 ## Data 
 All the data for this paper can be found in
